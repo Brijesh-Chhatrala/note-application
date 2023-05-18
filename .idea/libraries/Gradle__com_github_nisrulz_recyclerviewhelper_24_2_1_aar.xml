@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.nisrulz:recyclerviewhelper:24.2.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f1f777a2eb73948714c0f4b5de8b5451/recyclerviewhelper-24.2.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f1f777a2eb73948714c0f4b5de8b5451/recyclerviewhelper-24.2.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f1f777a2eb73948714c0f4b5de8b5451/recyclerviewhelper-24.2.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.nisrulz/recyclerviewhelper/24.2.1/6752a3299c8c99de5e79b419b6670f6e86986314/recyclerviewhelper-24.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.nisrulz/recyclerviewhelper/24.2.1/83b92aca44be9a040e651f033cc7d784ab1c7d69/recyclerviewhelper-24.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
