@@ -60,7 +60,7 @@ public class EditNoteActivity extends AppCompatActivity
             showNoteData(noteID);
         }
         seekBarUpdate(mRankBar);
-        mRankBar.setEnabled(false);
+        mRankBar.setEnabled(true);
     }
 
     private void seekBarUpdate(SeekBar mRankBar) {
